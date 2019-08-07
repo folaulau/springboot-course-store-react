@@ -1,0 +1,23 @@
+{
+  "name": "monomono-app",
+  "version": "1.0.0",
+  "description": "monomono app",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "build:client": "cd client; npm run build",
+    "build:admin": "cd admin; npm run build",
+    "start:client": "cd client; npm start",
+    "start:admin": "cd admin; npm start",
+    "install:client": "cd client; npm install",
+    "install:admin": "cd admin; npm install"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.4",
+    "meow": "5.0.0",
+    "source-map-explorer": "1.6.0"
+  },
+  "dependencies": {
+    "core-js": "3.0.1"
+  }
+}

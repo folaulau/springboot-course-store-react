@@ -1,0 +1,19 @@
+
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+.card{
+  margin-bottom: 20px;
+}
+
+.rating-star-color{
+  color: orange;
+}
+
+.custom-btn-link{
+  padding: 0px;
+  font-size: small;
+}
+.custom-btn-link:hover {
+  text-decoration: none;
+}
