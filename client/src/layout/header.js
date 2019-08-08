@@ -59,7 +59,7 @@ class Header extends Component {
             return (
                 <nav id="appNavbar" className="navbar navbar-expand-lg navbar-light bg-light shadow">
                     <a className="navbar-brand" href="/">
-                        Monomono
+                        Amazing Shirts
                     </a>
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item dropdown no-arrow mx-1">
@@ -88,7 +88,7 @@ class Header extends Component {
             return (
                 <nav id="appNavbar" className="navbar navbar-expand-lg navbar-light bg-light shadow">
                     <a className="navbar-brand" href="/">
-                        Monomono
+                    Amazing Shirts
                     </a>
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item dropdown no-arrow mx-1">

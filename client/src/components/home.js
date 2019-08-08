@@ -208,7 +208,7 @@ class Home extends Component {
                     <div className="col">
                         <div className="jumbotron jumbotron-fluid">
                             <div className="container text-center">
-                                <h1 className="display-4">Polynesian Monomono</h1>
+                                <h1 className="display-4">Amazing Shirts</h1>
                                 <p className="lead">You order we deliver!</p>
                             </div>
                         </div>
